@@ -1,4 +1,4 @@
-##我的Android下喜欢的Apps
+## 我的Android下喜欢的Apps
 -----
 + Type Machine ：文字时光机，开启通知后可在后台保存已输入的文字。
 + 快图浏览
