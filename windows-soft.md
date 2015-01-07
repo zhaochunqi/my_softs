@@ -3,8 +3,7 @@
 ###浏览器
 * Firefox
 
-    插件
-
+* Firefox插件
  + Lastpass
  + Xmarks
  + Pocket
@@ -14,10 +13,10 @@
  + Adblock Plus 
  
 
-* Chrome 中国区下载不通畅，下载时请搜索Chrome Standalone
+* Chrome: 中国区下载不通畅，下载时请搜索Chrome Standalone
 
 ###代码编辑
-* Sublime
+* Sublime Text
 
 * Brackets
 

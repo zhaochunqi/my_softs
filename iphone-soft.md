@@ -5,6 +5,7 @@
 * 印象笔记（EverNote）
 * 网易云音乐
 * 知乎
+* 知乎日报
 * VVebo：微博客户端
 * Pocket
 * Dropbox:被墙了啊。
