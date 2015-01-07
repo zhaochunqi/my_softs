@@ -8,3 +8,6 @@
 * [Vagrant](https://github.com/Parallels/vagrant-parallels) :配合PD使用真是酸爽。
 * Matlab
 * Pycharm
+* LICEcap 录屏软件，超级方便
+* shodowsocks 翻墙软件
+* Shrio

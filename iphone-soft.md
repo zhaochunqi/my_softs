@@ -17,6 +17,8 @@
 * WolframAlpha：神器。
 * Carousel:Dropbox出品
 * Ark VPN：每天都可以领免费时长。
-* 有数：计算器
 * 航旅纵横PRO
 * Coursera：公开课
+* Launch Center Pro 快速启动，主要用来快速启动给女票facetime audio
+* QQ邮箱： 有exchange可以用来配置公司邮箱。
+* Wunderlist 管理TODO，多平台，非常方便
