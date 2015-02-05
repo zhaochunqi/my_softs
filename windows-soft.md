@@ -22,6 +22,7 @@
 
 ###工具
 + Dropbox
++ Listary
 + Inpaint  去水印神器
 + Everything
 + 360压缩
