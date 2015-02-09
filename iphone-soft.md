@@ -1,5 +1,6 @@
 ## iPhone下使用的软件
 
+* Dash(￥68）： :sob: 买的心痛
 * 微信
 * 下厨房
 * iTunes U 
@@ -35,5 +36,6 @@
 * 航旅纵横PRO
 * Coursera：公开课
 * Launch Center Pro 快速启动，主要用来快速启动给女票facetime audio
+* Word/Excel/Powerpoint
 * QQ邮箱： 有exchange可以用来配置公司邮箱。
 * Wunderlist：管理TODO，多平台，非常方便
